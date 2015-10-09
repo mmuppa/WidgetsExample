@@ -5,19 +5,19 @@
     <string name="comments_hint">Enter your comments</string>
     <string name="submit">Submit</string>
     <string name="action_settings">Settings</string>
-    <string name="female">female</string>
-    <string name="male">male</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
     <string name="like_pizza">Like Pizza?</string>
     <!-- Spinner choices -->
     <string-array name="colors">
         <item>Pick a Color</item>
-        <item>red</item>
-        <item>orange</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>blue</item>
-        <item>indigo</item>
-        <item>violet</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Indigo</item>
+        <item>Violet</item>
     </string-array>
 
 
